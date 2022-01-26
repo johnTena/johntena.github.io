@@ -1,6 +1,6 @@
-# johntena.github.io
+# John Tena 
 
-install: 
+run locally: 
 
 git clone https://github.com/johnTena/johntena.github.io
 
